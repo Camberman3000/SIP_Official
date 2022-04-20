@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SIP_InteriorMapping",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
+		},
+		{
+			"Name": "PTMTool",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/946185f2400d4be9b8d4190e95df86c8"
+		},
+		{
+			"Name": "BlueprintAssist",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "AssetsCleaner",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
+		},
+		{
+			"Name": "AutoSettings",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fcc480bac77b4373bc6c68f0ae4f9847"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
+	]
+}
